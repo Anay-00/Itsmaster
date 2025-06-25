@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Itsmaster
+- 👋 Hi, I’m @Anay-00
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on some gui type things
